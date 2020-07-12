@@ -1,0 +1,10 @@
+Name: Hamad Nasir
+
+Activity 6
+
+1. Program will not run it should be same as class name.
+2. Missing a key word error which is syntax error.
+3. It shows syntax error and does not build a program.
+4. It shows syntax error and does not build a program.
+5. It shows syntax error and does not build a program.
+6. It shows syntax error and does not build a program.

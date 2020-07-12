@@ -1,0 +1,32 @@
+Name=Hamad Nasir
+Roll Number=120312
+Class=BSCS-6C
+Lab=3
+
+ACTIVITY 1:Source codes are given in seperate folder.
+Errors:
+Class test1:
+1-In this code there is no constructor with argument so correction is remove 5  in creating object t1.
+
+Class test2:
+2-It is calling the undefined argument .x() correction is to remove it
+
+Class test3:
+3-Print statement can only be used in main function and not in public functions
+
+Class test4:
+4-In this code there is no constructor with atgument so correction is to remove 5 as new c().
+
+Class test5:
+5-it creates another class for circle.In circle class make radius as public data type. 
+
+Activity 2:
+Ans1: Static method can not be used to access instant variables.
+Ans2: Yes a static method can access non static variable.
+
+Errors: Non static is called in static.
+
+Activity 3:
+Passing by reference means the called functions' parameter will be the same as the callers' passed argument
+ . Pass by value means the called functions' parameter
+ will be a copy of the callers' passed argument.

@@ -1,0 +1,18 @@
+Activity 5
+
+ERRORS
+
+1. '{' after public class ActivityFive. Write as public class ActivityFive{.
+2. '[]' after String . Write as public static main(String[] args).
+3. Missing " before Hello.
+4. Missing " after world.
+5. Missing void before main.
+6.  Lower case's' in line which prints 'do you like this program'.
+7.  Missing ; after System.out.println().
+8.  Missing out. in line which prints ' i wrote it myself'.
+9.  Missing ')' after " in line which prints ' i wrote it myself'.
+10. Used  { instead of } after line which prints ' i wrote it myself'.
+11. Boolean operator ? is outside "" in line which prints Do you like this program"?);.
+12. Higher case P used in Println in line which prints Do you like this program"?);.
+
+THESE ARE ALL SYNTAX ERRORS.

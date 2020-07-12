@@ -1,0 +1,18 @@
+Name: Hamad Nasir
+Class:BSCS-6C
+Roll Number:120312
+
+Activity One:
+            It is a program which inputs two numbers from the user and tell the relationship between them. It tells wether one
+number is greater,equal,smaller,not equal,greater and equal,smaller and equal then other number.
+
+Activity Two: 
+           In this program there was logical error which is that value of x was not incremented and hence the compiler compiled
+the program but it was not giving the desired output so it was not syntax error. Thus by writing x++ in while loop value of x was
+incremented up to 10 and thus was added.
+
+Activity Three:
+              This program prints the square of numbers from 1 to 10 and then prints the sum of those squared numbers.
+
+Activity Four:
+              This program first prints all the cards of the deck. Then the function introduced shuffles the cards and prints them. 

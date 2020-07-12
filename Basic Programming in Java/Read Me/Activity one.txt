@@ -1,0 +1,11 @@
+		Name: Hamad Nasir
+                Roll number: 120312
+
+Activity One
+
+1. When changed the name of class such as ActivityTwo it gives the following error: ActivityTwo  is public, should be declared in a file named ActivityTwo.java
+   public class ActivityTwo {. File name should be same as class name.
+2. When bracket removed it showed compiler error.It gives error: error: '{' expected
+   public class ActivityOne and for second error:error: '}' expecte public class ActivityOne.
+3. When used lower case 's' instead of 'S' it gived compiler error. Because System was case sensitive and it can't be changed.
+4.By removing semicolon it gived compiler error because it is must.
